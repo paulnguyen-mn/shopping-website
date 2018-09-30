@@ -52,7 +52,7 @@ jQuery(document).ready(function($)
 	initTimer();
 	initFavorite();
 	initFixProductBorder();
-	initIsotopeFiltering();
+	// initIsotopeFiltering();
 	initSlider();
 
 	/* 
@@ -374,7 +374,7 @@ jQuery(document).ready(function($)
 
 		//         $('.grid_sorting_button.active').removeClass('active');
 		//         $(this).addClass('active');
-		 
+
 		//         var selector = $(this).attr('data-filter');
 		//         $('.product-grid').isotope({
 		//             filter: selector,
@@ -385,13 +385,13 @@ jQuery(document).ready(function($)
 		//             }
 		//         });
 
-		        
+
 		//          return false;
 		//     });
     // 	}
     // }
 
-    /* 
+    /*
 
 	8. Init Slider
 
