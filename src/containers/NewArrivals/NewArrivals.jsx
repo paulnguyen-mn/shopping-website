@@ -3,8 +3,8 @@ import _ from 'lodash';
 
 import productsList from '../../data/products';
 import categories from '../../data/categories';
-import CategoryOptions from './CategoryOptions';
-import ProductsList from './ProductsList/ProductsList';
+import CategoryOptions from '../../components/CategoryOptions/CategoryOptions';
+import ProductsList from '../../components/ProductsList/ProductsList';
 import "./NewArrivals.css";
 
 export default class NewArrivals extends PureComponent {

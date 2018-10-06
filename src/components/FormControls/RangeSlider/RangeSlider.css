@@ -1,0 +1,9 @@
+
+.rc-slider-track,
+.rc-slider-handle {
+  background-color: #ff3447;
+}
+
+.rc-slider-handle, .rc-slider-handle:hover {
+  border-color: #ff3447;
+}
